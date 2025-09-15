@@ -1,5 +1,7 @@
 # Hello 👋 I am Evans Mutembei.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/evans-mutembei/)
+
 A Software developer with a unique combination of technical expertise and team playing skills coupled with the will to learn.
 
 
