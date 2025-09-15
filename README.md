@@ -5,9 +5,9 @@
 A Software developer with a unique combination of technical expertise and team playing skills coupled with the will to learn.
 
 
-- 🔭 I’m currently working as front-end devloper.
-- 🌱 I’m currently learning: Software Engineering.
-- 💬 Ask me about: Software Development.
+- 🔭 I’m currently working as front-end developer.
+- 🌱 I’m currently learning:  Cyber Security.
+- 💬 Ask me about: Software Development |  Cyber Security.
 - 📫 How to reach me: email: evansmutembeinjeru@gmail.com
 - 😄 Pronouns: he/him.
 
@@ -26,6 +26,11 @@ I am also expanding into the field of cybersecurity, continuing to build my skil
 | Incident Response Planning and Execution      | <a href="#" target="_blank" rel="noopener noreferrer">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="#" target="_blank" rel="noopener noreferrer">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="#" target="_blank" rel="noopener noreferrer">SOC Automation Lab</a>|
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
